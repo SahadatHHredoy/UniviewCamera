@@ -1,0 +1,46 @@
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\bin\Debug\NetDemo.exe
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\bin\Debug\NetDemo.pdb
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.AddCloudDevice.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.AddDevice.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.CloudDeviceAttribute.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.CycleMonitor.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.Discovery.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.DownloadInfo.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.LocalDeviceAttribute.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.LocalSetting.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.NetDemo.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.Preset.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.Properties.Resources.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.PTZExtend.resources
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.csproj.GenerateResource.cache
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.csproj.CoreCompileInputs.cache
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.exe
+D:\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.pdb
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\bin\Debug\NetDemo.exe
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\bin\Debug\NetDemo.pdb
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.csprojAssemblyReference.cache
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.AddCloudDevice.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.AddDevice.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.CloudDeviceAttribute.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.CycleMonitor.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.Discovery.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.DownloadInfo.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.LocalDeviceAttribute.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.LocalSetting.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.NetDemo.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.Preset.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.Properties.Resources.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.PTZExtend.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.csproj.GenerateResource.cache
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.csproj.CoreCompileInputs.cache
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.exe
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C#\NetDemo\obj\Debug\NetDemo.pdb
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\obj\Debug\NetDemo.csprojAssemblyReference.cache
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\obj\Debug\NetDemo.Properties.Resources.resources
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\obj\Debug\NetDemo.csproj.GenerateResource.cache
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\obj\Debug\NetDemo.csproj.CoreCompileInputs.cache
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\obj\Debug\NetDemo.exe
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\obj\Debug\NetDemo.pdb
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\bin\Debug\NetDemo.exe
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\bin\Debug\NetDemo.pdb
+D:\Projects\UniView\NETDEVSDK_Win64_V1.8.0.1_IN\NETDEVSDK_Win64_V1.8.0.1_IN\demo\C# - Copy\NetDemo\obj\Debug\NetDemo.NETDEMO.resources
